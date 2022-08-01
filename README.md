@@ -1,2 +1,2 @@
 # .github
-mage Processing for Electronic Publications 
+Image Processing for Electronic Publications 

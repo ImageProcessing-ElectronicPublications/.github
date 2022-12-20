@@ -25,6 +25,12 @@ The main directions of the organization:
 * [djvu-bookmark](https://github.com/ImageProcessing-ElectronicPublications/djvu-bookmark):
 ![GitHub repo size](https://img.shields.io/github/repo-size/ImageProcessing-ElectronicPublications/djvu-bookmark)
 ![GitHub](https://img.shields.io/github/license/ImageProcessing-ElectronicPublications/djvu-bookmark)
+* [djvulibre](https://github.com/ImageProcessing-ElectronicPublications/djvulibre):
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/ImageProcessing-ElectronicPublications/djvulibre)
+![GitHub Release Date](https://img.shields.io/github/release-date/ImageProcessing-ElectronicPublications/djvulibre)
+![GitHub repo size](https://img.shields.io/github/repo-size/ImageProcessing-ElectronicPublications/djvulibre)
+![GitHub all releases](https://img.shields.io/github/downloads/ImageProcessing-ElectronicPublications/djvulibre/total)
+![GitHub](https://img.shields.io/github/license/ImageProcessing-ElectronicPublications/djvulibre)
 * [jb2unify](https://github.com/ImageProcessing-ElectronicPublications/jb2unify):
 ![GitHub repo size](https://img.shields.io/github/repo-size/ImageProcessing-ElectronicPublications/jb2unify)
 * [minidjvu-mod](https://github.com/ImageProcessing-ElectronicPublications/minidjvu-mod):

@@ -39,6 +39,12 @@ The main directions of the organization:
 ![GitHub repo size](https://img.shields.io/github/repo-size/ImageProcessing-ElectronicPublications/minidjvu-mod)
 ![GitHub all releases](https://img.shields.io/github/downloads/ImageProcessing-ElectronicPublications/minidjvu-mod/total)
 ![GitHub](https://img.shields.io/github/license/ImageProcessing-ElectronicPublications/minidjvu-mod)
+* [stb-image-djvul](https://github.com/ImageProcessing-ElectronicPublications/stb-image-djvul):
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/ImageProcessing-ElectronicPublications/stb-image-djvul)
+![GitHub Release Date](https://img.shields.io/github/release-date/ImageProcessing-ElectronicPublications/stb-image-djvul)
+![GitHub repo size](https://img.shields.io/github/repo-size/ImageProcessing-ElectronicPublications/stb-image-djvul)
+![GitHub all releases](https://img.shields.io/github/downloads/ImageProcessing-ElectronicPublications/stb-image-djvul/total)
+![GitHub](https://img.shields.io/github/license/ImageProcessing-ElectronicPublications/stb-image-djvul)
 
 #### gimp:
 
@@ -192,6 +198,12 @@ The main directions of the organization:
 ![GitHub Release Date](https://img.shields.io/github/release-date/ImageProcessing-ElectronicPublications/rdopt)
 ![GitHub repo size](https://img.shields.io/github/repo-size/ImageProcessing-ElectronicPublications/rdopt)
 ![GitHub all releases](https://img.shields.io/github/downloads/ImageProcessing-ElectronicPublications/rdopt/total)
+* [stb-image-metrics](https://github.com/ImageProcessing-ElectronicPublications/stb-image-metrics):
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/ImageProcessing-ElectronicPublications/stb-image-metrics)
+![GitHub Release Date](https://img.shields.io/github/release-date/ImageProcessing-ElectronicPublications/stb-image-metrics)
+![GitHub repo size](https://img.shields.io/github/repo-size/ImageProcessing-ElectronicPublications/stb-image-metrics)
+![GitHub all releases](https://img.shields.io/github/downloads/ImageProcessing-ElectronicPublications/stb-image-metrics/total)
+![GitHub](https://img.shields.io/github/license/ImageProcessing-ElectronicPublications/stb-image-metrics)
 
 #### pdf:
 
@@ -501,12 +513,18 @@ The main directions of the organization:
 ![GitHub repo size](https://img.shields.io/github/repo-size/ImageProcessing-ElectronicPublications/ppmrose)
 ![GitHub all releases](https://img.shields.io/github/downloads/ImageProcessing-ElectronicPublications/ppmrose/total)
 ![GitHub](https://img.shields.io/github/license/ImageProcessing-ElectronicPublications/ppmrose)
-* [srcnncv](https://github.com/ImageProcessing-ElectronicPublications/srcnncv):
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/ImageProcessing-ElectronicPublications/srcnncv)
-![GitHub Release Date](https://img.shields.io/github/release-date/ImageProcessing-ElectronicPublications/srcnncv)
-![GitHub repo size](https://img.shields.io/github/repo-size/ImageProcessing-ElectronicPublications/srcnncv)
-![GitHub all releases](https://img.shields.io/github/downloads/ImageProcessing-ElectronicPublications/srcnncv/total)
-![GitHub](https://img.shields.io/github/license/ImageProcessing-ElectronicPublications/srcnncv)
+* [stb-image-resize](https://github.com/ImageProcessing-ElectronicPublications/stb-image-resize):
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/ImageProcessing-ElectronicPublications/stb-image-resize)
+![GitHub Release Date](https://img.shields.io/github/release-date/ImageProcessing-ElectronicPublications/stb-image-resize)
+![GitHub repo size](https://img.shields.io/github/repo-size/ImageProcessing-ElectronicPublications/stb-image-resize)
+![GitHub all releases](https://img.shields.io/github/downloads/ImageProcessing-ElectronicPublications/stb-image-resize/total)
+![GitHub](https://img.shields.io/github/license/ImageProcessing-ElectronicPublications/stb-image-resize)
+* [stb-image-srcnn](https://github.com/ImageProcessing-ElectronicPublications/stb-image-srcnn):
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/ImageProcessing-ElectronicPublications/stb-image-srcnn)
+![GitHub Release Date](https://img.shields.io/github/release-date/ImageProcessing-ElectronicPublications/stb-image-srcnn)
+![GitHub repo size](https://img.shields.io/github/repo-size/ImageProcessing-ElectronicPublications/stb-image-srcnn)
+![GitHub all releases](https://img.shields.io/github/downloads/ImageProcessing-ElectronicPublications/stb-image-srcnn/total)
+![GitHub](https://img.shields.io/github/license/ImageProcessing-ElectronicPublications/stb-image-srcnn)
 * [tesseract](https://github.com/ImageProcessing-ElectronicPublications/tesseract):
 ![GitHub repo size](https://img.shields.io/github/repo-size/ImageProcessing-ElectronicPublications/tesseract)
 ![GitHub](https://img.shields.io/github/license/ImageProcessing-ElectronicPublications/tesseract)
@@ -594,6 +612,12 @@ The main directions of the organization:
 * [rdopng-examples](https://github.com/ImageProcessing-ElectronicPublications/rdopng-examples):
 ![GitHub repo size](https://img.shields.io/github/repo-size/ImageProcessing-ElectronicPublications/rdopng-examples)
 ![GitHub](https://img.shields.io/github/license/ImageProcessing-ElectronicPublications/rdopng-examples)
+* [stb-image-metrics-demo](https://github.com/ImageProcessing-ElectronicPublications/stb-image-metrics-demo):
+![GitHub repo size](https://img.shields.io/github/repo-size/ImageProcessing-ElectronicPublications/stb-image-metrics-demo)
+![GitHub](https://img.shields.io/github/license/ImageProcessing-ElectronicPublications/stb-image-metrics-demo)
+* [stb-image-resize-demo](https://github.com/ImageProcessing-ElectronicPublications/stb-image-resize-demo):
+![GitHub repo size](https://img.shields.io/github/repo-size/ImageProcessing-ElectronicPublications/stb-image-resize-demo)
+![GitHub](https://img.shields.io/github/license/ImageProcessing-ElectronicPublications/stb-image-resize-demo)
 * [unpaper-test](https://github.com/ImageProcessing-ElectronicPublications/unpaper-test):
 ![GitHub repo size](https://img.shields.io/github/repo-size/ImageProcessing-ElectronicPublications/unpaper-test)
 ![GitHub](https://img.shields.io/github/license/ImageProcessing-ElectronicPublications/unpaper-test)

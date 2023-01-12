@@ -382,6 +382,8 @@ The main directions of the organization:
 ![GitHub repo size](https://img.shields.io/github/repo-size/ImageProcessing-ElectronicPublications/qtimdenoising)
 * [scantailor](https://github.com/ImageProcessing-ElectronicPublications/scantailor):
 ![GitHub repo size](https://img.shields.io/github/repo-size/ImageProcessing-ElectronicPublications/scantailor)
+* [scantailor-universal](https://github.com/ImageProcessing-ElectronicPublications/scantailor-universal):
+![GitHub repo size](https://img.shields.io/github/repo-size/ImageProcessing-ElectronicPublications/scantailor-universal)
 * [svgcarve](https://github.com/ImageProcessing-ElectronicPublications/svgcarve):
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/ImageProcessing-ElectronicPublications/svgcarve)
 ![GitHub Release Date](https://img.shields.io/github/release-date/ImageProcessing-ElectronicPublications/svgcarve)

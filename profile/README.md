@@ -55,6 +55,12 @@ The main directions of the organization:
 ![GitHub repo size](https://img.shields.io/github/repo-size/ImageProcessing-ElectronicPublications/djvulibre)
 ![GitHub all releases](https://img.shields.io/github/downloads/ImageProcessing-ElectronicPublications/djvulibre/total)
 ![GitHub](https://img.shields.io/github/license/ImageProcessing-ElectronicPublications/djvulibre)
+* [djvupure](https://github.com/ImageProcessing-ElectronicPublications/djvupure):
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/ImageProcessing-ElectronicPublications/djvupure)
+![GitHub Release Date](https://img.shields.io/github/release-date/ImageProcessing-ElectronicPublications/djvupure)
+![GitHub repo size](https://img.shields.io/github/repo-size/ImageProcessing-ElectronicPublications/djvupure)
+![GitHub all releases](https://img.shields.io/github/downloads/ImageProcessing-ElectronicPublications/djvupure/total)
+![GitHub](https://img.shields.io/github/license/ImageProcessing-ElectronicPublications/djvupure)
 * [jb2unify](https://github.com/ImageProcessing-ElectronicPublications/jb2unify):
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/ImageProcessing-ElectronicPublications/jb2unify)
 ![GitHub Release Date](https://img.shields.io/github/release-date/ImageProcessing-ElectronicPublications/jb2unify)
@@ -204,6 +210,9 @@ The main directions of the organization:
 ![GitHub repo size](https://img.shields.io/github/repo-size/ImageProcessing-ElectronicPublications/jpegm)
 ![GitHub all releases](https://img.shields.io/github/downloads/ImageProcessing-ElectronicPublications/jpegm/total)
 ![GitHub](https://img.shields.io/github/license/ImageProcessing-ElectronicPublications/jpegm)
+* [jpegoptim](https://github.com/ImageProcessing-ElectronicPublications/jpegoptim):
+![GitHub repo size](https://img.shields.io/github/repo-size/ImageProcessing-ElectronicPublications/jpegoptim)
+![GitHub](https://img.shields.io/github/license/ImageProcessing-ElectronicPublications/jpegoptim)
 * [jpegquant](https://github.com/ImageProcessing-ElectronicPublications/jpegquant):
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/ImageProcessing-ElectronicPublications/jpegquant)
 ![GitHub Release Date](https://img.shields.io/github/release-date/ImageProcessing-ElectronicPublications/jpegquant)
@@ -377,6 +386,11 @@ The main directions of the organization:
 
 #### png:
 
+* [acnhscale](https://github.com/ImageProcessing-ElectronicPublications/acnhscale):
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/ImageProcessing-ElectronicPublications/acnhscale)
+![GitHub Release Date](https://img.shields.io/github/release-date/ImageProcessing-ElectronicPublications/acnhscale)
+![GitHub repo size](https://img.shields.io/github/repo-size/ImageProcessing-ElectronicPublications/acnhscale)
+![GitHub all releases](https://img.shields.io/github/downloads/ImageProcessing-ElectronicPublications/acnhscale/total)
 * [knnimdenoiser](https://github.com/ImageProcessing-ElectronicPublications/knnimdenoiser):
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/ImageProcessing-ElectronicPublications/knnimdenoiser)
 ![GitHub Release Date](https://img.shields.io/github/release-date/ImageProcessing-ElectronicPublications/knnimdenoiser)
@@ -442,6 +456,12 @@ The main directions of the organization:
 ![GitHub Release Date](https://img.shields.io/github/release-date/ImageProcessing-ElectronicPublications/python-cropper-tk)
 ![GitHub repo size](https://img.shields.io/github/repo-size/ImageProcessing-ElectronicPublications/python-cropper-tk)
 ![GitHub all releases](https://img.shields.io/github/downloads/ImageProcessing-ElectronicPublications/python-cropper-tk/total)
+* [python-fft-descreen](https://github.com/ImageProcessing-ElectronicPublications/python-fft-descreen):
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/ImageProcessing-ElectronicPublications/python-fft-descreen)
+![GitHub Release Date](https://img.shields.io/github/release-date/ImageProcessing-ElectronicPublications/python-fft-descreen)
+![GitHub repo size](https://img.shields.io/github/repo-size/ImageProcessing-ElectronicPublications/python-fft-descreen)
+![GitHub all releases](https://img.shields.io/github/downloads/ImageProcessing-ElectronicPublications/python-fft-descreen/total)
+![GitHub](https://img.shields.io/github/license/ImageProcessing-ElectronicPublications/python-fft-descreen)
 * [python-image-region-extraction](https://github.com/ImageProcessing-ElectronicPublications/python-image-region-extraction):
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/ImageProcessing-ElectronicPublications/python-image-region-extraction)
 ![GitHub Release Date](https://img.shields.io/github/release-date/ImageProcessing-ElectronicPublications/python-image-region-extraction)
@@ -523,6 +543,12 @@ The main directions of the organization:
 ![GitHub repo size](https://img.shields.io/github/repo-size/ImageProcessing-ElectronicPublications/scantailor-advanced)
 ![GitHub all releases](https://img.shields.io/github/downloads/ImageProcessing-ElectronicPublications/scantailor-advanced/total)
 ![GitHub](https://img.shields.io/github/license/ImageProcessing-ElectronicPublications/scantailor-advanced)
+* [scantailor-deviant](https://github.com/ImageProcessing-ElectronicPublications/scantailor-deviant):
+![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/ImageProcessing-ElectronicPublications/scantailor-deviant)
+![GitHub Release Date](https://img.shields.io/github/release-date-pre/ImageProcessing-ElectronicPublications/scantailor-deviant)
+![GitHub repo size](https://img.shields.io/github/repo-size/ImageProcessing-ElectronicPublications/scantailor-deviant)
+![GitHub all releases](https://img.shields.io/github/downloads/ImageProcessing-ElectronicPublications/scantailor-deviant/total)
+![GitHub](https://img.shields.io/github/license/ImageProcessing-ElectronicPublications/scantailor-deviant)
 * [scantailor-experimental](https://github.com/ImageProcessing-ElectronicPublications/scantailor-experimental):
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/ImageProcessing-ElectronicPublications/scantailor-experimental)
 ![GitHub Release Date](https://img.shields.io/github/release-date/ImageProcessing-ElectronicPublications/scantailor-experimental)
@@ -534,6 +560,11 @@ The main directions of the organization:
 ![GitHub Release Date](https://img.shields.io/github/release-date/ImageProcessing-ElectronicPublications/scantailor-universal)
 ![GitHub repo size](https://img.shields.io/github/repo-size/ImageProcessing-ElectronicPublications/scantailor-universal)
 ![GitHub all releases](https://img.shields.io/github/downloads/ImageProcessing-ElectronicPublications/scantailor-universal/total)
+* [SmartDeblur](https://github.com/ImageProcessing-ElectronicPublications/SmartDeblur):
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/ImageProcessing-ElectronicPublications/SmartDeblur)
+![GitHub Release Date](https://img.shields.io/github/release-date/ImageProcessing-ElectronicPublications/SmartDeblur)
+![GitHub repo size](https://img.shields.io/github/repo-size/ImageProcessing-ElectronicPublications/SmartDeblur)
+![GitHub all releases](https://img.shields.io/github/downloads/ImageProcessing-ElectronicPublications/SmartDeblur/total)
 * [svgcarve](https://github.com/ImageProcessing-ElectronicPublications/svgcarve):
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/ImageProcessing-ElectronicPublications/svgcarve)
 ![GitHub Release Date](https://img.shields.io/github/release-date/ImageProcessing-ElectronicPublications/svgcarve)
@@ -602,6 +633,18 @@ The main directions of the organization:
 * [stbibayer](https://github.com/ImageProcessing-ElectronicPublications/stbibayer):
 ![GitHub repo size](https://img.shields.io/github/repo-size/ImageProcessing-ElectronicPublications/stbibayer)
 ![GitHub](https://img.shields.io/github/license/ImageProcessing-ElectronicPublications/stbibayer)
+* [stbidespeckle](https://github.com/ImageProcessing-ElectronicPublications/stbidespeckle):
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/ImageProcessing-ElectronicPublications/stbidespeckle)
+![GitHub Release Date](https://img.shields.io/github/release-date/ImageProcessing-ElectronicPublications/stbidespeckle)
+![GitHub repo size](https://img.shields.io/github/repo-size/ImageProcessing-ElectronicPublications/stbidespeckle)
+![GitHub all releases](https://img.shields.io/github/downloads/ImageProcessing-ElectronicPublications/stbidespeckle/total)
+![GitHub](https://img.shields.io/github/license/ImageProcessing-ElectronicPublications/stbidespeckle)
+* [stbiscalenx](https://github.com/ImageProcessing-ElectronicPublications/stbiscalenx):
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/ImageProcessing-ElectronicPublications/stbiscalenx)
+![GitHub Release Date](https://img.shields.io/github/release-date/ImageProcessing-ElectronicPublications/stbiscalenx)
+![GitHub repo size](https://img.shields.io/github/repo-size/ImageProcessing-ElectronicPublications/stbiscalenx)
+![GitHub all releases](https://img.shields.io/github/downloads/ImageProcessing-ElectronicPublications/stbiscalenx/total)
+![GitHub](https://img.shields.io/github/license/ImageProcessing-ElectronicPublications/stbiscalenx)
 * [stbiFastGaussianBlur](https://github.com/ImageProcessing-ElectronicPublications/stbiFastGaussianBlur):
 ![GitHub repo size](https://img.shields.io/github/repo-size/ImageProcessing-ElectronicPublications/stbiFastGaussianBlur)
 
@@ -640,6 +683,9 @@ The main directions of the organization:
 * [page_dewarp](https://github.com/ImageProcessing-ElectronicPublications/page_dewarp):
 ![GitHub repo size](https://img.shields.io/github/repo-size/ImageProcessing-ElectronicPublications/page_dewarp)
 ![GitHub](https://img.shields.io/github/license/ImageProcessing-ElectronicPublications/page_dewarp)
+* [page-dewarp](https://github.com/ImageProcessing-ElectronicPublications/page-dewarp):
+![GitHub repo size](https://img.shields.io/github/repo-size/ImageProcessing-ElectronicPublications/page-dewarp)
+![GitHub](https://img.shields.io/github/license/ImageProcessing-ElectronicPublications/page-dewarp)
 * [patchmatch_inpainting](https://github.com/ImageProcessing-ElectronicPublications/patchmatch_inpainting):
 ![GitHub repo size](https://img.shields.io/github/repo-size/ImageProcessing-ElectronicPublications/patchmatch_inpainting)
 ![GitHub](https://img.shields.io/github/license/ImageProcessing-ElectronicPublications/patchmatch_inpainting)
@@ -661,6 +707,9 @@ The main directions of the organization:
 * [dither](https://github.com/ImageProcessing-ElectronicPublications/dither):
 ![GitHub repo size](https://img.shields.io/github/repo-size/ImageProcessing-ElectronicPublications/dither)
 ![GitHub](https://img.shields.io/github/license/ImageProcessing-ElectronicPublications/dither)
+* [Doxa](https://github.com/ImageProcessing-ElectronicPublications/Doxa):
+![GitHub repo size](https://img.shields.io/github/repo-size/ImageProcessing-ElectronicPublications/Doxa)
+![GitHub](https://img.shields.io/github/license/ImageProcessing-ElectronicPublications/Doxa)
 * [fb2-perl-tools](https://github.com/ImageProcessing-ElectronicPublications/fb2-perl-tools):
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/ImageProcessing-ElectronicPublications/fb2-perl-tools)
 ![GitHub Release Date](https://img.shields.io/github/release-date/ImageProcessing-ElectronicPublications/fb2-perl-tools)
@@ -735,6 +784,12 @@ The main directions of the organization:
 ![GitHub repo size](https://img.shields.io/github/repo-size/ImageProcessing-ElectronicPublications/pixam)
 ![GitHub all releases](https://img.shields.io/github/downloads/ImageProcessing-ElectronicPublications/pixam/total)
 ![GitHub](https://img.shields.io/github/license/ImageProcessing-ElectronicPublications/pixam)
+* [pnmunpaper](https://github.com/ImageProcessing-ElectronicPublications/pnmunpaper):
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/ImageProcessing-ElectronicPublications/pnmunpaper)
+![GitHub Release Date](https://img.shields.io/github/release-date/ImageProcessing-ElectronicPublications/pnmunpaper)
+![GitHub repo size](https://img.shields.io/github/repo-size/ImageProcessing-ElectronicPublications/pnmunpaper)
+![GitHub all releases](https://img.shields.io/github/downloads/ImageProcessing-ElectronicPublications/pnmunpaper/total)
+![GitHub](https://img.shields.io/github/license/ImageProcessing-ElectronicPublications/pnmunpaper)
 * [ppmdescreen](https://github.com/ImageProcessing-ElectronicPublications/ppmdescreen):
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/ImageProcessing-ElectronicPublications/ppmdescreen)
 ![GitHub Release Date](https://img.shields.io/github/release-date/ImageProcessing-ElectronicPublications/ppmdescreen)
@@ -761,12 +816,6 @@ The main directions of the organization:
 ![GitHub repo size](https://img.shields.io/github/repo-size/ImageProcessing-ElectronicPublications/tilequant)
 ![GitHub all releases](https://img.shields.io/github/downloads/ImageProcessing-ElectronicPublications/tilequant/total)
 ![GitHub](https://img.shields.io/github/license/ImageProcessing-ElectronicPublications/tilequant)
-* [unpaper](https://github.com/ImageProcessing-ElectronicPublications/unpaper):
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/ImageProcessing-ElectronicPublications/unpaper)
-![GitHub Release Date](https://img.shields.io/github/release-date/ImageProcessing-ElectronicPublications/unpaper)
-![GitHub repo size](https://img.shields.io/github/repo-size/ImageProcessing-ElectronicPublications/unpaper)
-![GitHub all releases](https://img.shields.io/github/downloads/ImageProcessing-ElectronicPublications/unpaper/total)
-![GitHub](https://img.shields.io/github/license/ImageProcessing-ElectronicPublications/unpaper)
 * [warp7p](https://github.com/ImageProcessing-ElectronicPublications/warp7p):
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/ImageProcessing-ElectronicPublications/warp7p)
 ![GitHub Release Date](https://img.shields.io/github/release-date/ImageProcessing-ElectronicPublications/warp7p)

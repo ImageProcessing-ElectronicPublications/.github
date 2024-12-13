@@ -146,6 +146,12 @@ The main directions of the organization:
 * [gimp-plugin-pixel-art-scalers](https://github.com/ImageProcessing-ElectronicPublications/gimp-plugin-pixel-art-scalers):
 ![GitHub repo size](https://img.shields.io/github/repo-size/ImageProcessing-ElectronicPublications/gimp-plugin-pixel-art-scalers)
 ![GitHub](https://img.shields.io/github/license/ImageProcessing-ElectronicPublications/gimp-plugin-pixel-art-scalers)
+* [gimp-plugin-reduce-color-depth](https://github.com/ImageProcessing-ElectronicPublications/gimp-plugin-reduce-color-depth):
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/ImageProcessing-ElectronicPublications/gimp-plugin-reduce-color-depth)
+![GitHub Release Date](https://img.shields.io/github/release-date/ImageProcessing-ElectronicPublications/gimp-plugin-reduce-color-depth)
+![GitHub repo size](https://img.shields.io/github/repo-size/ImageProcessing-ElectronicPublications/gimp-plugin-reduce-color-depth)
+![GitHub all releases](https://img.shields.io/github/downloads/ImageProcessing-ElectronicPublications/gimp-plugin-reduce-color-depth/total)
+![GitHub](https://img.shields.io/github/license/ImageProcessing-ElectronicPublications/gimp-plugin-reduce-color-depth)
 * [gimp-plugin-refocus](https://github.com/ImageProcessing-ElectronicPublications/gimp-plugin-refocus):
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/ImageProcessing-ElectronicPublications/gimp-plugin-refocus)
 ![GitHub Release Date](https://img.shields.io/github/release-date/ImageProcessing-ElectronicPublications/gimp-plugin-refocus)
@@ -631,6 +637,12 @@ The main directions of the organization:
 ![GitHub repo size](https://img.shields.io/github/repo-size/ImageProcessing-ElectronicPublications/stb-image-srcnn)
 ![GitHub all releases](https://img.shields.io/github/downloads/ImageProcessing-ElectronicPublications/stb-image-srcnn/total)
 ![GitHub](https://img.shields.io/github/license/ImageProcessing-ElectronicPublications/stb-image-srcnn)
+* [stbibalance](https://github.com/ImageProcessing-ElectronicPublications/stbibalance):
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/ImageProcessing-ElectronicPublications/stbibalance)
+![GitHub Release Date](https://img.shields.io/github/release-date/ImageProcessing-ElectronicPublications/stbibalance)
+![GitHub repo size](https://img.shields.io/github/repo-size/ImageProcessing-ElectronicPublications/stbibalance)
+![GitHub all releases](https://img.shields.io/github/downloads/ImageProcessing-ElectronicPublications/stbibalance/total)
+![GitHub](https://img.shields.io/github/license/ImageProcessing-ElectronicPublications/stbibalance)
 * [stbibayer](https://github.com/ImageProcessing-ElectronicPublications/stbibayer):
 ![GitHub repo size](https://img.shields.io/github/repo-size/ImageProcessing-ElectronicPublications/stbibayer)
 ![GitHub](https://img.shields.io/github/license/ImageProcessing-ElectronicPublications/stbibayer)
@@ -646,6 +658,12 @@ The main directions of the organization:
 ![GitHub repo size](https://img.shields.io/github/repo-size/ImageProcessing-ElectronicPublications/stbiscalenx)
 ![GitHub all releases](https://img.shields.io/github/downloads/ImageProcessing-ElectronicPublications/stbiscalenx/total)
 ![GitHub](https://img.shields.io/github/license/ImageProcessing-ElectronicPublications/stbiscalenx)
+* [stbithresgrad](https://github.com/ImageProcessing-ElectronicPublications/stbithresgrad):
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/ImageProcessing-ElectronicPublications/stbithresgrad)
+![GitHub Release Date](https://img.shields.io/github/release-date/ImageProcessing-ElectronicPublications/stbithresgrad)
+![GitHub repo size](https://img.shields.io/github/repo-size/ImageProcessing-ElectronicPublications/stbithresgrad)
+![GitHub all releases](https://img.shields.io/github/downloads/ImageProcessing-ElectronicPublications/stbithresgrad/total)
+![GitHub](https://img.shields.io/github/license/ImageProcessing-ElectronicPublications/stbithresgrad)
 * [stbiFastGaussianBlur](https://github.com/ImageProcessing-ElectronicPublications/stbiFastGaussianBlur):
 ![GitHub repo size](https://img.shields.io/github/repo-size/ImageProcessing-ElectronicPublications/stbiFastGaussianBlur)
 
@@ -853,6 +871,9 @@ The main directions of the organization:
 * [inpaint-cimg-doc](https://github.com/ImageProcessing-ElectronicPublications/inpaint-cimg-doc):
 ![GitHub repo size](https://img.shields.io/github/repo-size/ImageProcessing-ElectronicPublications/inpaint-cimg-doc)
 ![GitHub](https://img.shields.io/github/license/ImageProcessing-ElectronicPublications/inpaint-cimg-doc)
+* [jbig2enc-minidjvu](https://github.com/ImageProcessing-ElectronicPublications/jbig2enc-minidjvu):
+![GitHub repo size](https://img.shields.io/github/repo-size/ImageProcessing-ElectronicPublications/jbig2enc-minidjvu)
+![GitHub](https://img.shields.io/github/license/ImageProcessing-ElectronicPublications/jbig2enc-minidjvu)
 * [jpeg-decomp-doc](https://github.com/ImageProcessing-ElectronicPublications/jpeg-decomp-doc):
 ![GitHub repo size](https://img.shields.io/github/repo-size/ImageProcessing-ElectronicPublications/jpeg-decomp-doc)
 ![GitHub](https://img.shields.io/github/license/ImageProcessing-ElectronicPublications/jpeg-decomp-doc)
@@ -933,10 +954,12 @@ The main directions of the organization:
 * [stb-image-resize-demo](https://github.com/ImageProcessing-ElectronicPublications/stb-image-resize-demo):
 ![GitHub repo size](https://img.shields.io/github/repo-size/ImageProcessing-ElectronicPublications/stb-image-resize-demo)
 ![GitHub](https://img.shields.io/github/license/ImageProcessing-ElectronicPublications/stb-image-resize-demo)
+* [stbibalance-examples](https://github.com/ImageProcessing-ElectronicPublications/stbibalance-examples):
+![GitHub repo size](https://img.shields.io/github/repo-size/ImageProcessing-ElectronicPublications/stbibalance-examples)
+![GitHub](https://img.shields.io/github/license/ImageProcessing-ElectronicPublications/stbibalance-examples)
 * [unpaper-test](https://github.com/ImageProcessing-ElectronicPublications/unpaper-test):
 ![GitHub repo size](https://img.shields.io/github/repo-size/ImageProcessing-ElectronicPublications/unpaper-test)
 ![GitHub](https://img.shields.io/github/license/ImageProcessing-ElectronicPublications/unpaper-test)
 * [xpng-samples](https://github.com/ImageProcessing-ElectronicPublications/xpng-samples):
 ![GitHub repo size](https://img.shields.io/github/repo-size/ImageProcessing-ElectronicPublications/xpng-samples)
 ![GitHub](https://img.shields.io/github/license/ImageProcessing-ElectronicPublications/xpng-samples)
-

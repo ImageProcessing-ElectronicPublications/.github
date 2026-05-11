@@ -566,7 +566,11 @@ The main directions of the organization:
 * [qtimdenoising](https://github.com/ImageProcessing-ElectronicPublications/qtimdenoising):
 ![GitHub repo size](https://img.shields.io/github/repo-size/ImageProcessing-ElectronicPublications/qtimdenoising)
 * [scantailor](https://github.com/ImageProcessing-ElectronicPublications/scantailor):
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/ImageProcessing-ElectronicPublications/scantailor)
+![GitHub Release Date](https://img.shields.io/github/release-date/ImageProcessing-ElectronicPublications/scantailor)
 ![GitHub repo size](https://img.shields.io/github/repo-size/ImageProcessing-ElectronicPublications/scantailor)
+![GitHub all releases](https://img.shields.io/github/downloads/ImageProcessing-ElectronicPublications/scantailor/total)
+![GitHub](https://img.shields.io/github/license/ImageProcessing-ElectronicPublications/scantailor)
 * [scantailor-advanced](https://github.com/ImageProcessing-ElectronicPublications/scantailor-advanced):
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/ImageProcessing-ElectronicPublications/scantailor-advanced)
 ![GitHub Release Date](https://img.shields.io/github/release-date/ImageProcessing-ElectronicPublications/scantailor-advanced)

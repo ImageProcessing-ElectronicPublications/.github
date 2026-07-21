@@ -679,6 +679,12 @@ The main directions of the organization:
 ![GitHub repo size](https://img.shields.io/github/repo-size/ImageProcessing-ElectronicPublications/stbicomix)
 ![GitHub all releases](https://img.shields.io/github/downloads/ImageProcessing-ElectronicPublications/stbicomix/total)
 ![GitHub](https://img.shields.io/github/license/ImageProcessing-ElectronicPublications/stbicomix)
+* [stbideblur](https://github.com/ImageProcessing-ElectronicPublications/stbideblur):
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/ImageProcessing-ElectronicPublications/stbideblur)
+![GitHub Release Date](https://img.shields.io/github/release-date/ImageProcessing-ElectronicPublications/stbideblur)
+![GitHub repo size](https://img.shields.io/github/repo-size/ImageProcessing-ElectronicPublications/stbideblur)
+![GitHub all releases](https://img.shields.io/github/downloads/ImageProcessing-ElectronicPublications/stbideblur/total)
+![GitHub](https://img.shields.io/github/license/ImageProcessing-ElectronicPublications/stbideblur)
 * [stbidespeckle](https://github.com/ImageProcessing-ElectronicPublications/stbidespeckle):
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/ImageProcessing-ElectronicPublications/stbidespeckle)
 ![GitHub Release Date](https://img.shields.io/github/release-date/ImageProcessing-ElectronicPublications/stbidespeckle)
@@ -786,6 +792,12 @@ The main directions of the organization:
 ![GitHub repo size](https://img.shields.io/github/repo-size/ImageProcessing-ElectronicPublications/fb2-perl-tools)
 ![GitHub all releases](https://img.shields.io/github/downloads/ImageProcessing-ElectronicPublications/fb2-perl-tools/total)
 ![GitHub](https://img.shields.io/github/license/ImageProcessing-ElectronicPublications/fb2-perl-tools)
+* [fswebcam](https://github.com/ImageProcessing-ElectronicPublications/fswebcam):
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/ImageProcessing-ElectronicPublications/fswebcam)
+![GitHub Release Date](https://img.shields.io/github/release-date/ImageProcessing-ElectronicPublications/fswebcam)
+![GitHub repo size](https://img.shields.io/github/repo-size/ImageProcessing-ElectronicPublications/fswebcam)
+![GitHub all releases](https://img.shields.io/github/downloads/ImageProcessing-ElectronicPublications/fswebcam/total)
+![GitHub](https://img.shields.io/github/license/ImageProcessing-ElectronicPublications/fswebcam)
 * [imageworsener](https://github.com/ImageProcessing-ElectronicPublications/imageworsener):
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/ImageProcessing-ElectronicPublications/imageworsener)
 ![GitHub Release Date](https://img.shields.io/github/release-date/ImageProcessing-ElectronicPublications/imageworsener)
@@ -865,6 +877,12 @@ The main directions of the organization:
 ![GitHub repo size](https://img.shields.io/github/repo-size/ImageProcessing-ElectronicPublications/pixam)
 ![GitHub all releases](https://img.shields.io/github/downloads/ImageProcessing-ElectronicPublications/pixam/total)
 ![GitHub](https://img.shields.io/github/license/ImageProcessing-ElectronicPublications/pixam)
+* [pgmresize](https://github.com/ImageProcessing-ElectronicPublications/pgmresize):
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/ImageProcessing-ElectronicPublications/pgmresize)
+![GitHub Release Date](https://img.shields.io/github/release-date/ImageProcessing-ElectronicPublications/pgmresize)
+![GitHub repo size](https://img.shields.io/github/repo-size/ImageProcessing-ElectronicPublications/pgmresize)
+![GitHub all releases](https://img.shields.io/github/downloads/ImageProcessing-ElectronicPublications/pgmresize/total)
+![GitHub](https://img.shields.io/github/license/ImageProcessing-ElectronicPublications/pgmresize)
 * [pnmunpaper](https://github.com/ImageProcessing-ElectronicPublications/pnmunpaper):
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/ImageProcessing-ElectronicPublications/pnmunpaper)
 ![GitHub Release Date](https://img.shields.io/github/release-date/ImageProcessing-ElectronicPublications/pnmunpaper)
